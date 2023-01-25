@@ -5,9 +5,31 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background-image: './images/BlackBackground.png';
 }
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+/* .back {
+  width: 100%;
+  height: 100%;
+  position: fixed;
+  z-index: -1;
+} */
+
+
+/* .App{
+  width: 390px;
+height: 844px;
+left: 0px;
+top: 0px;
+} */
+/* .logo {
+  height: 53px;
+  width: 98px;
+  position: absolute;
+  left: 72px;
+  top: 40px;
+} */
