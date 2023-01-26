@@ -18,7 +18,14 @@ code {
   position: fixed;
   z-index: -1;
 } */
-
+.wrapper{
+  background-image: url("./images/BlackBackground.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  min-height:100vh;
+  background-position: center;
+  padding-top: 1rem;
+}
 
 /* .App{
   width: 390px;
