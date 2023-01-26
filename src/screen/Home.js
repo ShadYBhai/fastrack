@@ -59,7 +59,7 @@ const Rocket = styled.img`
 
   position: relative;
   top: 80px;
-  left: 34.5%;
+  left: 33.3%;
   @media only screen and (max-width: 600px) {
     z-index: 1;
     position: relative;
