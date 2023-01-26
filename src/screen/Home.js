@@ -97,7 +97,7 @@ const Button = styled.button`
   border: none;
   cursor: pointer;
   width: 150px;
-  height: 50px;
+  /* height: 50px; */
   padding: 13px;
   position: absolute;
   bottom: 0px;

@@ -140,7 +140,8 @@ const StyledNav = styled.div`
     font-family: "Uncut Sans";
     font-style: normal;
     font-weight: 600;
-    font-size: 40px;
+    /* font-size: 40px; */
+    font-size: xx-large;
     line-height: 50px;
     position: relative;
     /* padding: 50px 5px; */
