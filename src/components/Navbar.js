@@ -70,6 +70,7 @@ const StyledNav = styled.div`
     right: 0;
     right: 40px;
     top: 40px;
+    cursor: pointer;
   }
 
   display: flex;
